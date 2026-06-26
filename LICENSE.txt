@@ -1,6 +1,9 @@
 K12 Signature Building
-Created by James Thom
 
-Permission is granted to use, copy, customize, and share this template for educational and administrative purposes.
+MIT License
 
-This project is provided as-is with no warranty. Districts are responsible for reviewing legal, accessibility, branding, and public records language before deployment.
+Copyright (c) 2026 James Thom
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
