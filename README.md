@@ -1,6 +1,6 @@
-# K12 Signature Building
+# K12 Signature Builder
 
-**K12 Signature Building** is a configurable email signature generator designed specifically for **K–12 school districts**.
+**K12 Signature Builder** is a configurable email signature generator designed specifically for **K–12 school districts**.
 
 It allows district administrators to create a district-branded email signature generator without writing code. Once configured, the application exports a standalone **Staff Generator** that employees can use to create consistent, district-approved email signatures.
 
@@ -57,7 +57,7 @@ Employees simply enter their information and copy their completed signature into
 
 ## Accessibility
 
-K12 Signature Building was designed with accessibility in mind.
+K12 Signature Builder was designed with accessibility in mind.
 
 Features include:
 
