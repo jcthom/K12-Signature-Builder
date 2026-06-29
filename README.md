@@ -1,3 +1,13 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+K12 Signature Building
+
+A configurable email signature generator
+for K–12 School Districts
+
+Google Workspace • Outlook • ADA/WCAG
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # K12 Signature Building
 
 **K12 Signature Building** is a configurable email signature generator for K-12 school districts.
