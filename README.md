@@ -1,3 +1,11 @@
+![Version](https://img.shields.io/badge/version-6.1.4-blue)
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
+![Platform](https://img.shields.io/badge/platform-Google%20Workspace%20%7C%20Outlook-orange)
+
+![Accessibility](https://img.shields.io/badge/ADA-WCAG%20Aware-success)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 K12 Signature Building
