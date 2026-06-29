@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Profile Banner" width="100%">
+</p>
+
+
 ![Version](https://img.shields.io/badge/version-6.1.4-blue)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
